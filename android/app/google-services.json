@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053584627159",
+    "project_id": "kaofit-health-app",
+    "storage_bucket": "kaofit-health-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053584627159:android:a981386785b8b840a96792",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrl9Q-XivD5l1UomcU4KSza6vjBEaHps4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
