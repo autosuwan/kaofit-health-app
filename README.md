@@ -1,12 +1,17 @@
 # Kaofit: Your Personal Health Companion
-### Kaofit is an application designed to help you manage your health and diet easily and effectively. Whether you're looking to control your weight, build muscle, or simply improve your overall well-being, Kaofit is here to assist you in achieving your goals with precision.
+ **Kaofit** is an application designed to help you manage your health and diet easily and effectively. Whether you're looking to control your weight, build muscle, or simply improve your overall well-being, Kaofit is here to assist you in achieving your goals with precision.
 
-* Please Note: This Kaofit project was developed as a small-scale application for educational purposes, focusing on understanding the Dart language, Flutter framework, shared_preferences for data storage, and ValueNotifier for state management, as part of learning fundamental mobile application development.
+* Please Note: This Kaofit project was developed as a small-scale application for educational purposes, focusing on understanding the `Dart language`,  `Flutter framework`, `shared_preferences` for data storage, and `ValueNotifier` for state management, as part of learning fundamental mobile application development.
 
-Key Features:
+### Key Features
 BMI and Health Status Calculation: Simply input your weight and height, and Kaofit will calculate your Body Mass Index (BMI) along with an assessment of your health status, providing a starting point for your self-care plan.
 
-Macro Nutrient Tracking and Calculation:
+#### Weight and Height Track and Calculate BMI
+
+<img src="img/bmi_added.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+
+
+### Macro Nutrient Tracking and Calculation
 
 Popular Food Database: Quickly log your meals from a comprehensive list of popular Thai dishes with complete nutritional information.
 
@@ -14,7 +19,17 @@ Automatic Calculation: The app automatically calculates the total protein, fat, 
 
 Whey Protein in Scoops: For whey protein users, you can directly record your intake in "scoops," making tracking simpler and more accurate.
 
-Data Persistence and Seamless Use:
+#### Food and nutrient calculate
+
+<img src="img/added_food.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+
+
+#### Protein and carbohydrate
+
+<img src="img/add_food.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+
+
+### Data Persistence and Seamless Use
 
 Automatic Saving: Your recorded weight, height, BMI, and meal logs are automatically saved and remain accessible even after closing the app.
 

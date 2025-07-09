@@ -832,7 +832,7 @@ class _HomePageState extends State<HomePage> {
                         title: Text(item.name),
                         subtitle: Text(
                           // Updated subtitle to include protein detail
-                          '${proteinDetail}ข้าว: ${item.riceAmount.toStringAsFixed(0)}g\n'
+                          '$proteinDetailข้าว: ${item.riceAmount.toStringAsFixed(0)}g\n'
                           'P: ${item.protein.toStringAsFixed(1)}g | F: ${item.fat.toStringAsFixed(1)}g | C: ${item.carbohydrate.toStringAsFixed(1)}g | Kcal: ${item.calories.toStringAsFixed(0)}',
                         ),
                         isThreeLine:
