@@ -1,3 +1,8 @@
+<center>
+    <img src="img/logo.png" alt="Kaofit Logo" style="height: 100px; width: 100px;" />
+</center>
+
+
 # Kaofit: Your Personal Health Companion
  **Kaofit** is an application designed to help you manage your health and diet easily and effectively. Whether you're looking to control your weight, build muscle, or simply improve your overall well-being, Kaofit is here to assist you in achieving your goals with precision.
 
@@ -7,8 +12,9 @@
 BMI and Health Status Calculation: Simply input your weight and height, and Kaofit will calculate your Body Mass Index (BMI) along with an assessment of your health status, providing a starting point for your self-care plan.
 
 #### Weight and Height Track and Calculate BMI
-
-<img src="img/bmi_added.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+<center>
+    <img src="img/bmi_added.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+</center>
 
 
 ### Macro Nutrient Tracking and Calculation
@@ -20,13 +26,16 @@ Automatic Calculation: The app automatically calculates the total protein, fat, 
 Whey Protein in Scoops: For whey protein users, you can directly record your intake in "scoops," making tracking simpler and more accurate.
 
 #### Food and nutrient calculate
-
+<center>
 <img src="img/added_food.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+</center>
 
 
 #### Protein and carbohydrate
 
+<center>
 <img src="img/add_food.png" alt="" style="height: 380px; width:185px;" alignment="Center"/>
+</center>
 
 
 ### Data Persistence and Seamless Use
